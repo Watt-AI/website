@@ -1,8 +1,10 @@
 # POSTING INSTRUCTIONS
+
 Hello! To post a blog post or demo in this webpage, you need to follow a few specific instructions.
-- The post must be formatted as such: year-month-day-title.md
-- The post must be placed in the _posts/ folder.
-- After this, the post will be accessible through the homepage of the website.
+- The post must be a markdown file formatted with the following title: year-month-day-title.md
+- The post must be placed in the _posts/ folder
+- In the top lines of the markdown file, specify the type of file (post) and the title
+- After this, the post will be accessible through the homepage of the website
 
 # Startup Tutorial Below
 
