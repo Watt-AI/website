@@ -1,3 +1,13 @@
+# POSTING INSTRUCTIONS
+Hello! To post a blog post or demo in this webpage, you need to follow a few specific instructions.
+- The post must be formatted as such: year-month-day-title.md
+- The post must be placed in the _posts/ folder.
+- After this, the post will be accessible through the homepage of the website.
+
+# Startup Tutorial Below
+
+
+
 > March, 2016: If you're on an old version of Jekyll Now and run into a) build warnings or b) syntax highlighting issues caused by [Jekyll 3 and GitHub Pages updates](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0), just :sparkles:[update your _config.yml](https://github.com/barryclark/jekyll-now/pull/445/files):sparkles: and you'll be set!
 
 # Jekyll Now
