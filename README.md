@@ -6,6 +6,8 @@ Hello! To post a blog post or demo in this webpage, you need to follow a few spe
 - In the top lines of the markdown file, specify the type of file (post) and the title
 - After this, the post will be accessible through the homepage of the website
 
+Note: prose.io provides a natural word-processing interfae for creating/editing markdown files.
+
 # Startup Tutorial Below
 
 
