@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<div class="demos">
+  {% for post in site.posts %}
+  {% if post.category=="demo" %}
+  <article class="demo">
+
+    <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+    <div class="entry">
+      {{ post.excerpt }}
+    </div>
+
+    <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">See Demo</a>
+  </article>
+  {% endif %}
+  {% endfor %}
+</div>

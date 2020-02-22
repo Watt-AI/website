@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: Welcome to our homepage again!
 ---
 
