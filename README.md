@@ -9,6 +9,8 @@ Hello! To post a blog post or demo in this webpage, you need to follow a few spe
 Note: prose.io provides a natural word-processing interfae for creating/editing markdown files.
 
 # Directory structure
+Copied from https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/
+```
 website
 ├─ CNAME # Contains your custom domain name (optional)
 ├─ _config.yml # Jekyll's configuration flags
@@ -40,6 +42,7 @@ website
 │  ├─ _variables.scss
 │  └─ style.scss
 └── sitemap.xml # Site map for the website
+```
 
 
 # Startup Tutorial Below
