@@ -9,9 +9,14 @@ layout: default
     {{ content }}
   </div>
 
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
+  <div class="'author">
+    Written by {{page.author.name}}
   </div>
+  <div class="date">
+    {{ page.date | date: "%B %e, %Y" }}
+  </div>
+
+
 
   {% include disqus.html %}
 </article>
