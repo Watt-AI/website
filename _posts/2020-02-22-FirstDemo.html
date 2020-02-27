@@ -68,6 +68,17 @@ and see what the AI comes up with! The results are usually amusing, sometimes am
       <div class="columns is-variable is-5">
         <div class="column is-narrow" style="width: 250px;">
           <form id="gen-form">
+
+            <div class="field">
+              <label class="label">Model Subject</label>
+              <div class="control">
+                <select id = "model_sel" name = "model_sub" size = "3">
+                  <!-- FILLED IN BY AJAX CALL WHEN DOCUMENT READY -->
+                </select>
+              </div>
+              <p class="help">Choose from the models above, finetuned on different datasets</p>
+            </div>
+            
             <div class="field">
               <label class="label">Text Prompt</label>
               <div class="control">
@@ -75,6 +86,7 @@ and see what the AI comes up with! The results are usually amusing, sometimes am
               </div>
               <p class="help">Starts the generated text with the specified text. <em>(Optional: max 500 characters)</em></p>
             </div>
+            
             <div class="field">
               <label class="label">Generated Text Length</label>
               <div class="control">
@@ -155,14 +167,29 @@ and see what the AI comes up with! The results are usually amusing, sometimes am
 </script>
 
 <script type="text/javascript">
+  var MODEL_URLS = { "small": gm_small_url = "https://us-south.functions.cloud.ibm.com/api/v1/web/Clemson-Watt-CF-ORG_Clemson-Watt-Dev/default/gpt2?",
+    "shakespeare": "",
+    "Elon Musk": ""}
+
+  $(document).ready(function fill_dropd() {
+      var model_sel = document.getElementById("model_sel");
+
+      for(var model in MODEL_URLS) {
+        var option = document.createElement("OPTION");
+        option.innerHTML = model;
+        option.value = model;
+
+        model_sel.appendChild(option);
+      }
+
+  });
+
   $(function () {
     $('#gen-form').submit(function (e) {
       e.preventDefault();
       $.ajax({
-        type: "POST",
-        url: "https://gpt2-default-dstdu4u23a-uc.a.run.app",
-        dataType: "json",
-        data: JSON.stringify(getInputValues()),
+        type: "GET",
+        url: getURL(),
         beforeSend: function (data) {
           $('#generate-text').addClass("is-loading");
           $('#generate-text').prop("disabled", true);
@@ -205,12 +232,24 @@ and see what the AI comes up with! The results are usually amusing, sometimes am
 
   });
 
-  function getInputValues() {
+  function getURL() {
+
     var inputs = {};
-    $("textarea, input").each(function () {
+    $("textarea, input, select").each(function () {
       inputs[$(this).attr('id')] = $(this).val();
     });
-    return inputs;
+
+    var url = MODEL_URLS[inputs['model_sel']]; //Base url
+
+    for (var input in inputs) {
+      if(input != "model_sel" && input != "nav-trigger") {
+        url += input + "=" + inputs[input] + "&";
+      }
+    }
+
+    url = url.replace(" ", "%20").slice(0, -1);
+
+    return url;
   }
 
   // https://stackoverflow.com/a/51478809
