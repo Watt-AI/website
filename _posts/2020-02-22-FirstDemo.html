@@ -207,7 +207,6 @@ and see what the AI comes up with! The results are usually amusing, sometimes am
           $('#generate-text').prop("disabled", false);
           $('#tutorial').remove();
           var gentext = data.text;
-          alert(gentext);
           if ($("#prefix").length & $("#prefix").val() != '') {
             var pattern = new RegExp('^' + $("#prefix").val(), 'g');
             var gentext = gentext.replace(pattern, '<strong>' + $("#prefix").val() + '</strong>');
