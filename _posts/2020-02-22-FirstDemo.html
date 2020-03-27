@@ -171,13 +171,13 @@ and see what the AI comes up with! The results are usually amusing, sometimes am
 
   var MODEL_URLS = { 
     "GPT-2 Base Model":           gm_small_url = "https://us-south.functions.cloud.ibm.com/api/v1/web/Clemson-Watt-CF-ORG_Clemson-Watt-Dev/default/gpt2?",
-    "Presidential Debates":       gm_deb_url = "https://us-south.functions.cloud.ibm.com/api/v1/web/3095e235-12c9-4636-86bc-bd5bdc3e2599/default/gpt2_gen_debate?",
+    // "Presidential Debates":       gm_deb_url = "https://us-south.functions.cloud.ibm.com/api/v1/web/3095e235-12c9-4636-86bc-bd5bdc3e2599/default/gpt2_gen_debate?",
     "Elon Musk Tweets":           gm_elon_url = "https://us-south.functions.cloud.ibm.com/api/v1/web/3095e235-12c9-4636-86bc-bd5bdc3e2599/default/gpt2_gen_elon?",
     "Song Lyrics":                gm_song_url = "https://us-south.functions.cloud.ibm.com/api/v1/web/3095e235-12c9-4636-86bc-bd5bdc3e2599/default/gpt2_gen_lyrics?",
     "Action Movie Scripts":       gm_mov_url = "https://us-south.functions.cloud.ibm.com/api/v1/web/3095e235-12c9-4636-86bc-bd5bdc3e2599/default/gpt2_gen_qtmovies?",
     "Trump Tweets":               gm_trump_url = "https://us-south.functions.cloud.ibm.com/api/v1/web/3095e235-12c9-4636-86bc-bd5bdc3e2599/default/gpt2_gen_trump?",
     "Neil deGrasse Tyson Tweets": gm_tyson_url = "https://us-south.functions.cloud.ibm.com/api/v1/web/3095e235-12c9-4636-86bc-bd5bdc3e2599/default/gpt2_gen_tyson?"
-    }
+    };
 
   $(document).ready(function fill_dropd() {
       var model_sel = document.getElementById("model_sel");
@@ -256,7 +256,7 @@ and see what the AI comes up with! The results are usually amusing, sometimes am
     }
 
     url = url.replace(" ", "%20").slice(0, -1);
-
+    alert(url);
     return url;
   }
 
