@@ -1,3 +1,13 @@
+---
+layout: post
+category: blog
+title: Anti-Bias Resources
+permalink: /blog/anti_bias
+author:
+  name: Carl Ehrett
+  email: "cehrett@clemson.edu"
+---
+
 # Resources related to social bias in machine learning, artificial intelligence and data science
 
 The below resources are divided into two groups:
