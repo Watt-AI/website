@@ -3,6 +3,7 @@ layout: post
 category: blog
 title: Anti-Bias Resources
 permalink: /blog/anti_bias
+excerpt_separator: <!--more-->
 author:
   name: Carl Ehrett
   email: "cehrett@clemson.edu"
