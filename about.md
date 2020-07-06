@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+<img src="{{site.url}}/website/assets/img/group.jpg">
+
 The Watson in the Watt (WitW) program enables AI education and research applications within the broader Clemson Community with a focus on Watson and other IBM Cloud services. Since its beginning in late 2017, this program has worked intensively with 58 students covering 20 academic majors to support research projects with faculty from 22 academic departments. This work has led to multiple presentations at academic conferences, publication of peer-reviewed research, generation of novel datasets, follow-on grant funding opportunities, and one patent application.
 
 ## Education
