@@ -18,7 +18,7 @@ Much of this list is based on a presentation by Watson-in-the-Watt intern Cierra
 
 <!--more-->
 
-# Sources describing problems of algorithmic bias
+## Sources describing problems of algorithmic bias
 
 [Supposedly 'Fair' Algorithms Can Perpetuate Discrimination](https://www.wired.com/story/ideas-joi-ito-insurance-algorithms/): How the use of AI runs the risk of re-creating the insurance industry's inequities of the previous century. A look into how AI methods can wind up implementing 'redlining' techniques that disproportionately harm minority communities.
 
@@ -58,7 +58,7 @@ Much of this list is based on a presentation by Watson-in-the-Watt intern Cierra
   <img src="https://github.com/cehrett/cehrett.github.io/blob/master/images/podcast.jpg?raw=true" alt="Image"/>
 </p>
 
-# Guides and examples: using AI/ML/DS to uncover bias
+## Guides and examples: using AI/ML/DS to uncover bias
 
 [An analysis of racial bias in criminal sentencing](https://investigate.ai/propublica-criminal-sentencing/). This excellent resource is a Jupyter notebook that walks through the ProPublica analysis described in the article linked above. You can follow along in Python to see how they drew their conclusions that the Compas recidivism prediction AI included racial bias, and/or adapt their code to your own purposes.
 <p align="center">
