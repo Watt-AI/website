@@ -9,6 +9,12 @@ permalink: /about/
 The Watson in the Watt (WitW) program enables AI education and research applications within the broader Clemson Community with a focus on Watson and other IBM Cloud services. Since its beginning in late 2017, this program has worked intensively with 58 students covering 20 academic majors to support research projects with faculty from 22 academic departments. This work has led to multiple presentations at academic conferences, publication of peer-reviewed research, generation of novel datasets, follow-on grant funding opportunities, and one patent application.
 
 ## Education
+The Watson in the Watt Creative Inquiry course is the core educational activity of the WitW program. This credited course focuses on applied AI methodology in the context of academic research. The course has two educational tracks with each track having 1 classroom contact hour per week:
+
+  1. First-time students: students taking the course for the first time work through an interdisciplinary program  covering a broad range of topics relevant to Artificial Intelligence including IBM Watson, cloud computing, machine learning, statistical reasoning, application development, and societal considerations of AI. Material is presented as a mixture of lecture content, classroom discussions, and homework assignments. The goal of this introductory course is to equip students with the skills they need to succeed in applied AI research at Clemson and beyond.
+  2. Returning students: students taking the course for the 2nd or higher time participate in an “Advanced Topics” seminar course. Throughout the semester, all students present on topics of their choosing from the world of Artificial Intelligence. Presentations are followed by discussions facilitated by the WitW staff. The goal of this track is to broaden students’ exposures to diverse topics in AI and to deepen their mastery of specific topics that they present on. The returning student track is also designed to be “light weight” compared to the first-time student track leaving the returning students more time to focus on their research projects.
+    
+All students irrespective of track are placed on research projects as outlined in more detail below. In the context of these projects, the students receive more intensive, hands-on experience in specific areas as required by their projects.
 
 ## Research
 
