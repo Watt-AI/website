@@ -8,11 +8,14 @@ author:
   email: "cehrett@clemson.edu"
 ---
 
+
 This post includes resources related to social bias in machine learning, artificial intelligence and data science. These resources are divided into two groups:
 1. Sources for learning about problems of algorithmic bias related to artificial intelligence, machine learning and data science (AI/ML/DS)
 2. Guides/examples of how you can use AI/ML/DS to help identify and fight bias. You can use your analytical skills to identify bias where it might otherwise have escaped notice, or apply the tools and techniques here to make sure your own models are free of algorithmic bias.
 
 Much of this list is based on a presentation by Watson-in-the-Watt intern Cierra Oliveira; that presentation can be viewed [here](https://docs.google.com/presentation/d/109Tw0POt4w4itQ-Hznt7imSnHLF3t6VqPmoWun9UM-U).
+
+<!--more-->
 
 # Sources describing problems of algorithmic bias
 
