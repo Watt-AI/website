@@ -33,7 +33,7 @@ The WitW program actively seeks out research collaborations with faculty and sta
 4. **Delivery**:  Once a project begins to meet its research objectives, activities will often shift toward producing tangible outputs such as conference presentations, publications, grant proposals, patent applications, demonstrations of technology development, and pilot deployments. Students take an active role in this process, whether it be helping to write academic papers, presenting at conferences, or coordinating with the university or outside institutions to demonstrate the technology we’ve developed.
 
 The WitW program has facilitated more than 20 machine-learning and AI-related research projects at Clemson. We are proud to have collaborations with a wide variety of researchers in more than 20 departments or institutions. The table below shows the Clemson academic departments we have worked with so far.
-<img src="{{site.url}}/website/assets/img/departments.jpg">
+<img src="{{site.url}}/website/assets/img/departments.png">
 
 ## Leadership
 
