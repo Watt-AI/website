@@ -10,12 +10,14 @@ permalink: "/"
       <article class="post">
 
         <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+        <h2>{{post.author.name}}<h2>
 
         <div class="entry">
           {{ post.excerpt }}
+          <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
         </div>
 
-        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+        
       </article>
     {% endif %}
   {% endfor %}
