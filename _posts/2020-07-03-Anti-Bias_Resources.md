@@ -29,6 +29,7 @@ Much of this list is based on a presentation by Watson-in-the-Watt intern Cierra
 ---
 
 [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing): ProPublica's famous investigation discovering racial bias in AI used for making decisions related to bail and criminal sentencing.
+
 <img src="{{site.url}}/website/images/pro_publica_compas.jpg">
                                                     
 ---
@@ -39,14 +40,14 @@ Much of this list is based on a presentation by Watson-in-the-Watt intern Cierra
 
 [Amazon scraps secret AI recruiting tool that showed bias against women](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G). A news article that illustrates how a company -- in this case Amazon -- can find itself relying on discriminatory AI.
 <p align="center">
-  <img src="https://github.com/Watson-in-the-Watt/website/tree/master/images/amazon.jpg?raw=true" alt="Image"/>
+  <img src="{{site.url}}/website/images/amazon.jpg">
 </p>
 
 ---
 
 [Google apologizes after its Vision AI produced racist results](https://algorithmwatch.org/en/story/google-vision-racism/). An example of the sort of algorithmic bias that can manifest in visual recognition AI: "AlgorithmWatch showed that Google Vision Cloud, a computer vision service, labeled an image of a dark-skinned individual holding a thermometer “gun” while a similar image with a light-skinned individual was labeled “electronic device”.
 <p align="center">
-  <img src="https://github.com/Watson-in-the-Watt/website/tree/master/images/google_vision.jpg?raw=true" alt="Image"/>
+  <img src="{{site.url}}/website/images/google_vision.jpg?raw=true" alt="Image">
 </p>
 
 ---
