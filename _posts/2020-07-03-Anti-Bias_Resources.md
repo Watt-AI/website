@@ -30,9 +30,10 @@ Much of this list is based on a presentation by Watson-in-the-Watt intern Cierra
 
 [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing): ProPublica's famous investigation discovering racial bias in AI used for making decisions related to bail and criminal sentencing.
 <p align="center">
-  <img src="https://github.com/Watson-in-the-Watt/website/images/pro_publica_compas.jpg?raw=true" alt="Image"/>
+  <img src="https://github.com/Watson-in-the-Watt/website/images/pro_publica_compas.jpg">
 </p>
-
+<img src="{{site.url}}/website/assets/img/group.jpg">
+                                                    
 ---
 
 [Some essential reading and research on race and technology](https://venturebeat.com/2020/06/02/some-essential-reading-and-research-on-race-and-technology/amp/?__twitter_impression=true&fbclid=IwAR1mP_5y1oJQKj851rCKSYeAGfPXSFlYQpBOZKVnbB-mLwx_k4IB3KaCwNU). This is another collection of articles, reports and books relevant to algorithmic discrimination.
