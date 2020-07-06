@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 author:
   name: Dr. Carl Ehrett
   email: "cehrett@clemson.edu"
-image: ../images/pro_publica_compas.jpg
+image: pro_publica_compas.jpg
 ---
 
 
