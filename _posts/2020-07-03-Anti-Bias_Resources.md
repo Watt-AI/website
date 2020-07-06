@@ -8,15 +8,13 @@ author:
   email: "cehrett@clemson.edu"
 ---
 
-# Resources related to social bias in machine learning, artificial intelligence and data science
-
-The below resources are divided into two groups:
+This post includes resources related to social bias in machine learning, artificial intelligence and data science. These resources are divided into two groups:
 1. Sources for learning about problems of algorithmic bias related to artificial intelligence, machine learning and data science (AI/ML/DS)
 2. Guides/examples of how you can use AI/ML/DS to help identify and fight bias. You can use your analytical skills to identify bias where it might otherwise have escaped notice, or apply the tools and techniques here to make sure your own models are free of algorithmic bias.
 
 Much of this list is based on a presentation by Watson-in-the-Watt intern Cierra Oliveira; that presentation can be viewed [here](https://docs.google.com/presentation/d/109Tw0POt4w4itQ-Hznt7imSnHLF3t6VqPmoWun9UM-U).
 
-## Sources describing problems of algorithmic bias
+# Sources describing problems of algorithmic bias
 
 [Supposedly 'Fair' Algorithms Can Perpetuate Discrimination](https://www.wired.com/story/ideas-joi-ito-insurance-algorithms/): How the use of AI runs the risk of re-creating the insurance industry's inequities of the previous century. A look into how AI methods can wind up implementing 'redlining' techniques that disproportionately harm minority communities.
 
@@ -56,7 +54,7 @@ Much of this list is based on a presentation by Watson-in-the-Watt intern Cierra
   <img src="https://github.com/cehrett/cehrett.github.io/blob/master/images/podcast.jpg?raw=true" alt="Image"/>
 </p>
 
-## Guides and examples: using AI/ML/DS to uncover bias
+# Guides and examples: using AI/ML/DS to uncover bias
 
 [An analysis of racial bias in criminal sentencing](https://investigate.ai/propublica-criminal-sentencing/). This excellent resource is a Jupyter notebook that walks through the ProPublica analysis described in the article linked above. You can follow along in Python to see how they drew their conclusions that the Compas recidivism prediction AI included racial bias, and/or adapt their code to your own purposes.
 <p align="center">
