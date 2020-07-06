@@ -30,7 +30,7 @@ Much of this list is based on a presentation by Watson-in-the-Watt intern Cierra
 
 [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing): ProPublica's famous investigation discovering racial bias in AI used for making decisions related to bail and criminal sentencing.
 <p align="center">
-  <img src="https://github.com/Watson-in-the-Watt/website/tree/master/images/pro_publica_compas.jpg?raw=true" alt="Image"/>
+  <img src="https://github.com/Watson-in-the-Watt/website/images/pro_publica_compas.jpg?raw=true" alt="Image"/>
 </p>
 
 ---
