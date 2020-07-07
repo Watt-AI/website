@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 <img src="{{site.url}}/website/assets/img/group.jpg">
+<br>
 
 The Watson in the Watt (WitW) program enables AI education and research applications within the broader Clemson Community with a focus on Watson and other IBM Cloud services. Since its beginning in late 2017, this program has worked intensively with 58 students covering 20 academic majors to support research projects with faculty from 22 academic departments. This work has led to multiple presentations at academic conferences, publication of peer-reviewed research, generation of novel datasets, follow-on grant funding opportunities, and one patent application.
 
@@ -25,7 +26,7 @@ All students irrespective of track are placed on research projects as outlined i
 More than 60 undergraduates have participated in the WitW educational program. We are proud to recruit students from a wide range of academic disciplines. The following figure shows the distrubtion of student majors during the Spring 2020 term. 
 <img src="{{site.url}}/website/assets/img/majors.jpg">
 </details>
-
+<br>
 
 ## Research
 The WitW program actively seeks out research collaborations with faculty and staff at Clemson University. In these collaborations, the WitW program seeks to enable effective applications of AI methodology to further the research goals of our partners. 
@@ -46,6 +47,7 @@ The enablement model roughly follows the following phases:
 The WitW program has facilitated more than 20 machine-learning and AI-related research projects at Clemson. We are proud to have collaborations with a wide variety of researchers in more than 20 departments or institutions. The table below shows the Clemson academic departments we have worked with so far.
 <img src="{{site.url}}/website/assets/img/departments.png">
 </details>
+<br>
 
 ## Leadership
 The WitW program is organized by Clemson's [Watt Family Innovation Center](http://www.clemson.edu/centers-institutes/watt/). 
