@@ -11,7 +11,7 @@ The Watson in the Watt (WitW) program enables AI education and research applicat
 ## Education
 The Watson in the Watt Creative Inquiry course is the core educational activity of the WitW program. This credited course focuses on applied AI methodology in the context of academic research. 
 
-<details><summary markdown='span'> **Read more...** </summary><br>
+<details><summary markdown='span'> **Read more...** </summary>
     
 The course has two educational tracks with each track having 1 classroom contact hour per week: 
 
@@ -29,7 +29,7 @@ More than 60 undergraduates have participated in the WitW educational program. W
 ## Research
 The WitW program actively seeks out research collaborations with faculty and staff at Clemson University. In these collaborations, the WitW program seeks to enable effective applications of AI methodology to further the research goals of our partners. 
 
-<details><summary markdown='span'> **Read more...** </summary><br>
+<details><summary markdown='span'> **Read more...** </summary>
     
 The enablement model roughly follows the following phases:
 
@@ -49,7 +49,7 @@ The WitW program has facilitated more than 20 machine-learning and AI-related re
 ## Leadership
 The WitW program is organized by Clemson's [Watt Family Innovation Center](http://www.clemson.edu/centers-institutes/watt/). 
 
-<details><summary markdown='span'> **Read more...** </summary><br>
+<details><summary markdown='span'> **Read more...** </summary>
     
 ### Executive Leadership
 Dr. Todd Marek, Watt Center Executive Director, Dr. Kuang-Ching Wang, Watt Center Associate Director for Research, Dr. Barbara Speziale, Watt Center Associate Director for Academic Affairs and Director of Creative Inquiry, and Dr. Mark Krystofik, Watt Center Associate Director for Operations and Sustainability, have been integral to the vision, creation, and strategic leadership for the Watson in the Watt program.  The Executive Leadership team has been engaged in development of the Watson in the Watt project portfolio and integration of Watson in the Watt to broader initiatives across the university.
