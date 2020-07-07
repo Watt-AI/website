@@ -6,6 +6,7 @@ permalink: /about/
 
 <img src="{{site.url}}/website/assets/img/group.jpg">
 <br>
+<br>
 
 The Watson in the Watt (WitW) program enables AI education and research applications within the broader Clemson Community with a focus on Watson and other IBM Cloud services. Since its beginning in late 2017, this program has worked intensively with 58 students covering 20 academic majors to support research projects with faculty from 22 academic departments. This work has led to multiple presentations at academic conferences, publication of peer-reviewed research, generation of novel datasets, follow-on grant funding opportunities, and one patent application.
 
@@ -14,6 +15,7 @@ The Watson in the Watt Creative Inquiry course is the core educational activity 
 
 <details>
     <summary> Read more... </summary>
+    <br>
     
 The course has two educational tracks with each track having 1 classroom contact hour per week: 
 
@@ -33,6 +35,7 @@ The WitW program actively seeks out research collaborations with faculty and sta
 
 <details>
     <summary> Read more... </summary>
+    <br>
     
 The enablement model roughly follows the following phases:
 
@@ -54,6 +57,7 @@ The WitW program is organized by Clemson's [Watt Family Innovation Center](http:
 
 <details>
     <summary> Read more... </summary>
+    <br>
     
 ### Executive Leadership
 Dr. Todd Marek, Watt Center Executive Director, Dr. Kuang-Ching Wang, Watt Center Associate Director for Research, Dr. Barbara Speziale, Watt Center Associate Director for Academic Affairs and Director of Creative Inquiry, and Dr. Mark Krystofik, Watt Center Associate Director for Operations and Sustainability, have been integral to the vision, creation, and strategic leadership for the Watson in the Watt program.  The Executive Leadership team has been engaged in development of the Watson in the Watt project portfolio and integration of Watson in the Watt to broader initiatives across the university.
