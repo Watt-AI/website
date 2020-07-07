@@ -11,7 +11,7 @@ The Watson in the Watt (WitW) program enables AI education and research applicat
 ## Education
 The Watson in the Watt Creative Inquiry course is the core educational activity of the WitW program. This credited course focuses on applied AI methodology in the context of academic research. 
 
-<details>
+<details><summary markdown='span'> **Read more...** </summary>
     
 The course has two educational tracks with each track having 1 classroom contact hour per week: 
 
@@ -24,11 +24,12 @@ All students irrespective of track are placed on research projects as outlined i
 More than 60 undergraduates have participated in the WitW educational program. We are proud to recruit students from a wide range of academic disciplines. The following figure shows the distrubtion of student majors during the Spring 2020 term. 
 <img src="{{site.url}}/website/assets/img/majors.jpg">
 </details>
+<br>
 
 ## Research
 The WitW program actively seeks out research collaborations with faculty and staff at Clemson University. In these collaborations, the WitW program seeks to enable effective applications of AI methodology to further the research goals of our partners. 
 
-<details>
+<details><summary markdown='span'> **Read more...** </summary>
     
 The enablement model roughly follows the following phases:
 
@@ -43,11 +44,12 @@ The enablement model roughly follows the following phases:
 The WitW program has facilitated more than 20 machine-learning and AI-related research projects at Clemson. We are proud to have collaborations with a wide variety of researchers in more than 20 departments or institutions. The table below shows the Clemson academic departments we have worked with so far.
 <img src="{{site.url}}/website/assets/img/departments.png">
 </details>
+<br>
 
 ## Leadership
 The WitW program is organized by Clemson's [Watt Family Innovation Center](http://www.clemson.edu/centers-institutes/watt/). 
 
-<details>
+<details><summary markdown='span'> **Read more...** </summary>
     
 ### Executive Leadership
 Dr. Todd Marek, Watt Center Executive Director, Dr. Kuang-Ching Wang, Watt Center Associate Director for Research, Dr. Barbara Speziale, Watt Center Associate Director for Academic Affairs and Director of Creative Inquiry, and Dr. Mark Krystofik, Watt Center Associate Director for Operations and Sustainability, have been integral to the vision, creation, and strategic leadership for the Watson in the Watt program.  The Executive Leadership team has been engaged in development of the Watson in the Watt project portfolio and integration of Watson in the Watt to broader initiatives across the university.
