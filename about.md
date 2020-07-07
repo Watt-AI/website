@@ -11,7 +11,8 @@ The Watson in the Watt (WitW) program enables AI education and research applicat
 ## Education
 The Watson in the Watt Creative Inquiry course is the core educational activity of the WitW program. This credited course focuses on applied AI methodology in the context of academic research. 
 
-[expand]
+<details>
+    <summary> Read more... </summary>
 The course has two educational tracks with each track having 1 classroom contact hour per week: 
 1. **First-time students**: students taking the course for the first time work through an interdisciplinary program  covering a broad range of topics relevant to Artificial Intelligence including IBM Watson, cloud computing, machine learning, statistical reasoning, application development, and societal considerations of AI. Material is presented as a mixture of lecture content, classroom discussions, and homework assignments. The goal of this introductory course is to equip students with the skills they need to succeed in applied AI research at Clemson and beyond.
 
@@ -21,7 +22,7 @@ All students irrespective of track are placed on research projects as outlined i
 
 More than 60 undergraduates have participated in the WitW educational program. We are proud to recruit students from a wide range of academic disciplines. The following figure shows the distrubtion of student majors during the Spring 2020 term. 
 <img src="{{site.url}}/website/assets/img/majors.jpg">
-[/expand]
+</details>
 
 
 ## Research
