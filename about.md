@@ -11,7 +11,7 @@ The Watson in the Watt (WitW) program enables AI education and research applicat
 ## Education
 The Watson in the Watt Creative Inquiry course is the core educational activity of the WitW program. This credited course focuses on applied AI methodology in the context of academic research. 
 
-<details>
+<details><summary markdown='span'> Read more... </summary>
     
 The course has two educational tracks with each track having 1 classroom contact hour per week: 
 
