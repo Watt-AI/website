@@ -49,5 +49,4 @@ Dr. Hudson Smith joined the Watson in the Watt program in March 2018. Received h
 
 <img src="{{site.url}}/website/assets/img/carl.jpg" style="float:right;width:256px;height:256px;">
 Dr. Carl Ehrett is a research associate in the Watson in the Watt program in the Watt Family Innovation Center. He facilitates research activities applying artificial intelligence and machine learning techniques, and works with students and faculty to foster interdisciplinary collaboration growing the AI and analytics community within Clemson. Carl received an M.A. in philosophy from the University of Kentucky with emphasis on cognitive science. He then earned a Ph.D. in analytic philosophy from Northwestern University, researching semantic modeling of vagueness in natural language. Carl went on to earn an M.S. from Clemson's School of Mathematical and Statistical Sciences, focusing on computational mathematics and statistics, and is currently a Ph.D. candidate studying Bayesian statistics and computer model calibration.
-
 [/expand]
